@@ -10,7 +10,7 @@
 
 # Project Description
 
-This project demonstrates how to create an interactive chat interface for GitHub repositories using LlamaIndex and Activeloop's Deep Lake. It allows users to query and interact with code repositories using natural language, providing an intuitive way to explore and understand codebases.
+An interactive chat interface for GitHub repositories using LlamaIndex and Activeloop's Deep Lake. It allows users to query and interact with code repositories using natural language, providing an intuitive way to explore and understand codebases.
 
 ## Dependencies
 
